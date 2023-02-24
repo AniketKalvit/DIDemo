@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DIDemo.Models
 {
+    //This is sample comment
     [Table("Product")]
     public class Product
     {
